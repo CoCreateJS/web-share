@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreateJS/CoCreate-web-share.git"
+    "url": "git+https://github.com/CoCreateJS/web-share.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-web-share/issues"
+    "url": "https://github.com/CoCreateJS/web-share/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/web-share",
   "main": "./src/index.js",
