@@ -173,32 +173,28 @@ export default { init, share, canShare };
 /**
  *
  * @name share-files-query
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name share-text
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name share-title
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name share-url
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
